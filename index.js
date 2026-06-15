@@ -78,4 +78,4 @@ client.on('messageCreate', async (message) => {
 });
 
 // Coloque o Token do seu Bot do Discord Developer Portal aqui dentro das aspas
-client.login('SEU_TOKEN_DO_DISCORD_AQUI');
+client.login('MTUxNjE5NjE2MDY0NDA1OTI2MA.GkiZ3C.hu5qEd-BTTbVPrgAtSW1KDwAiZv3BDKzYblf_o');
